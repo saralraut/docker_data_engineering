@@ -15,4 +15,4 @@ venv/
 .env/
 
 # Docker volumes
-docker_data/
+ny_taxi_postgres_data/
