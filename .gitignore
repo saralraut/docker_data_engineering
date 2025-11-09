@@ -3,7 +3,7 @@
 *.parquet
 *.json
 *.zip
-.sql
+*.sql
 # Ignore data directory
 data/
 
