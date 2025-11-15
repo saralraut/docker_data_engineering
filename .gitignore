@@ -21,6 +21,3 @@ ny_taxi_postgres_data/
 services
 services.yaml
 services.yml
-
-docker-compose.yaml
-docker-compose.yml
